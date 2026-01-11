@@ -64,11 +64,11 @@
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
   </a>&nbsp;
-  <!-- New: Eclipse IDE -->
+  <!-- Eclipse IDE -->
   <a href="https://eclipse.org/ide/" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/eclipseide/2C2255" alt="Eclipse IDE" width="50" height="50"/>
   </a>&nbsp;
-  <!-- New: STM32 -->
+  <!-- STM32 -->
   <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/stmicroelectronics/03234B" alt="STM32" width="50" height="50"/>
   </a>
@@ -76,6 +76,7 @@
 
 **Core Focus Areas**:
 - PCB Design (**KiCad** / Altium)
+- **Embedded Systems** & **Embedded Linux**
 - Embedded **C/C++** Firmware
 - Microcontrollers (**Arduino**, **STM32**, **ESP32**...)
 - **Python** scripting & automation
