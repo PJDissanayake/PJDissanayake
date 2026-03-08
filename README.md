@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Pathum+Jeewantha;Electronics+Engineer+%7C+PCB+Designer;Firmware+%26+Embedded+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Pathum+Dissanayake;Electronics+Engineer+%7C+PCB+Designer;Firmware+%26+Embedded+Developer" alt="Typing SVG" />
 
   <br/>
 
@@ -27,15 +27,15 @@ located_in: Sri Lanka
 current_role: Electronics Engineering Undergraduate
 
 fields_of_interest:
-  - PCB Design (KiCad, Altium)
   - Embedded Systems & Firmware
+  - SOC (Raspberry Pi, Rockchip, Sigmastar)
   - Microcontrollers (Arduino, STM32, ESP32)
-  - Python Automation
+  - PCB Design (KiCad, Altium)
 
 currently_learning:
-  - Advanced PCB Layout
-  - RTOS Development
   - Embedded Linux
+  - C++ Programming
+  - Advanced PCB Layout
   - STM32 HAL Programming
 
 hobbies:
